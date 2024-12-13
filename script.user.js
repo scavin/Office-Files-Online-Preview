@@ -3,8 +3,9 @@
 // @name:zh-CN          Office 文件在线预览(支持Excel、Word、PowerPoint等格式)
 // @name:ja             Officeファイルオンラインプレビュー
 // @name:ru             Онлайн предварительный просмотр файлов Office
-// @author              青小蛙
-// @namespace           https://meta.appinn.net/u/qingwa/
+// @author              scavin
+// @namespace           https://github.com/scavin
+// @supportURL          https://meta.appinn.net/t/topic/64140
 // @homepage            https://www.appinn.com
 // @version             0.2.1
 // @description         Automatically convert Office file links to Office Online Preview
