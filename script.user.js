@@ -6,7 +6,7 @@
 // @author              青小蛙
 // @namespace           https://meta.appinn.net/u/qingwa/
 // @homepage            https://www.appinn.com
-// @version             0.2
+// @version             0.2.1
 // @description         Automatically convert Office file links to Office Online Preview
 // @description:zh-CN   自动将Office文件链接转换为Office Online预览，支持Excel、Word、PowerPoint等格式
 // @description:ja      Officeファイルリンクを自動的にOffice Onlineプレビューに変換します
