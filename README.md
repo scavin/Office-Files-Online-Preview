@@ -12,6 +12,10 @@
 
 ## 效果：
 
-点击 .xlsx 文件链接后，自动跳转
 
 ![Screen-20241213214519@2x](https://github.com/user-attachments/assets/c12f5ac5-ef72-45b0-b10b-d1bad66b9595)
+
+## 使用方法
+
+1. 点击 .xlsx 文件链接后，自动跳转
+2. 右键链接，选择新标签页打开，自动下载
